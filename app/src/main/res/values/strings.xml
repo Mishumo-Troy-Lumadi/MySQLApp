@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My SQL App</string>
+    <string name="button">Get Data</string>
+    <string name="textView">Processing...</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+</resources>

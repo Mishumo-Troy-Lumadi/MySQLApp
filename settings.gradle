@@ -1,0 +1,2 @@
+rootProject.name='My SQL App'
+include ':app', ':mysql-connector-java-5.1.42-bin'
